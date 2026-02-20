@@ -351,10 +351,6 @@ Consider these improvements for advanced implementation:
 4. ❌ **Missing Transitions**: Document all possible state transitions
 5. ❌ **Hardcoded States**: Use state classes, not string constants
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 **JLNerecina**
@@ -377,12 +373,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 🔍 UML Class Diagram
 
-![UML Class Diagram](path/to/your/uml-diagram.png)
+![UML Class Diagram](https://github.com/JLNerecina/State_Design_Pattern_-Vending_Machine-/blob/main/State%20Design%20Pattern%20UML%20Diagram.png)
 
 ---
 
 **Last Updated**: February 2026  
 **Status**: ✅ Complete and Production Ready  
 **Java Version**: 8+  
-**License**: MIT
 ```
