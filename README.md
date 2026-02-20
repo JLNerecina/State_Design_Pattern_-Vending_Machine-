@@ -1,4 +1,3 @@
-```markdown
 # Vending Machine State Pattern Implementation
 
 A Java implementation of the **State Design Pattern** demonstrating a flexible vending machine system with multiple operational states. This project showcases how to eliminate complex conditional logic and create maintainable, extensible code through proper design patterns.
