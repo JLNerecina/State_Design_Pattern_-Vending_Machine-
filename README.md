@@ -152,7 +152,7 @@ OutOfOrder State
 |-----------|:----:|:------------:|:----------:|:----------:|
 | selectItem | ✅ | ❌ | ❌ | ❌ |
 | insertCoin | ❌ | ✅ | ❌ | ❌ |
-| dispenseItem | ❌ | ✅* | ✅ | ❌ |
+| dispenseItem | ❌ | ✅ | ✅ | ❌ |
 | setOutOfOrder | ✅ | ✅ | ❌ | ℹ️ |
 
 *Only if sufficient funds are available
